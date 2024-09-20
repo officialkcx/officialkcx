@@ -31,8 +31,8 @@ Skills & Tools:
 - Version Control: Git, GitHub, VSCode, JupyterNotebook
   
 Connect with Me:
-LinkedIn: www.linkedin.com/in/brian-rivers-a6702a177
-Email: Brian.bemr@gmail.com
+- LinkedIn: www.linkedin.com/in/brian-rivers-a6702a177
+- Email: Brian.bemr@gmail.com
 Thank you for visiting my portfolio! I look forward to connecting with potential employers and collaborators in the data science field. Please don't hesitate to reach out if you have any questions or opportunities.
 
 How to Use This Repository:
